@@ -1,6 +1,6 @@
 Documentation:
 ------------------------------------------
-A responsive mobile web application that can simplify your Calculus journey and make it from point A(Begginer) to point B(Expert) in O(1) time!
+Calcly  -  A responsive mobile web application that can simplify your Calculus journey and make it from point A(Begginer) to point B(Expert) in O(1) time!
 
 Introduction: 
 ------------------------------------------
