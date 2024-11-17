@@ -1,0 +1,44 @@
+.faculty-glyphic-regular {
+  font-family: "Faculty Glyphic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn-extra-large {
+  width: 65px;
+  height: 65px;
+  line-height: 65px;
+  font-size: 2.5rem;
+}
+
+.slider-item iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  border: none;
+}
+
+.responsive-img {
+  margin-top: 20px;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: black;
+}
+
+.adapted-font {
+  font-size: 30px; /* Default font size */
+}
+
+/* Reduce font size for smaller screens */
+@media screen and (min-width: 600px) {
+  .adapted-font {
+    font-size: 30px; /* Adjust to a smaller size */
+  }
+}
+
+@media screen and (max-width: 599px) {
+  .adapted-font {
+    font-size: 15px; /* Further adjust for very small screens */
+  }
+}
