@@ -19,7 +19,7 @@ Anyone interested in Calculus help.
 Getting Started:
 ------------------------------------------
 <ins>Installation Instructions:</ins>    
-Find our Responsive Mobile Web Application on a phone or computer setup following this link: <a name="Calcly">Calcly</a>. Then, download it directly to your mobile device or computer. Feel free to use the website as is, and once our application is in the app store, we will update this description.
+Find our Responsive Mobile Web Application on a phone or computer setup following this link: [Calcly](https://brianccwork.github.io/Calcly/). Then, download it directly to your mobile device or computer. Feel free to use the website as is, and once our application is in the app store, we will update this description.
 
 <ins>How to use Calcly:</ins>   
 First, you will be met with our landing page by opening up the responsive mobile web application from a mobile device or a laptop. If you are a student in need of Calculus videos, scrolling directly down is a slider of Steve Butler's greatest walkthrough for Calculus. Afterward, you can be directed to the screen's bottom left corner, where a small chat button is displayed. Upon pressing the button, a chat box will appear where you can begin to learn Calculus at O(1) time.
@@ -50,7 +50,7 @@ Technical Details:
 - Noah Wons
 
 
-[https://brianccwork.github.io/Calcly/](#Calcly)
+
 
 
 
