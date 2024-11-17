@@ -29,24 +29,24 @@ First, you will be met with our landing page by opening up the responsive mobile
 Technical Details:
 ------------------------------------------
 <ins>Resources:</ins>   
-Canva - Graphic Design Platform
-Materialize - CSS Framework
-Botpress - Our AI Training API
-Steve Butler - AI Training and YouTube Videos for Students to Learn from.
+Canva - Graphic Design Platform   
+Materialize - CSS Framework    
+Botpress - Our AI Training API    
+Steve Butler - AI Training and YouTube Videos for Students to Learn from.    
 
 <ins>Languages Used:</ins>   
-Responsive Mobile Web Application
-CSS (Cascading Style Sheets)
-JS (JavaScript)
-HTML (HyperText Markup Language)
-Flutter Application for App Stores
-Flutter
-Dart
-Python
+Responsive Mobile Web Application    
+  CSS (Cascading Style Sheets)     
+  JS (JavaScript)    
+  HTML (HyperText Markup Language)    
+Flutter Application for App Stores    
+  Flutter    
+  Dart    
+  Python    
 
 <ins>Developers:</ins>   
-Brian Craciun
-Michael Proeschel
-Noah Wons
+Brian Craciun    
+Michael Proeschel    
+Noah Wons    
 
 
