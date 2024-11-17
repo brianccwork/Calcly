@@ -39,7 +39,7 @@ Technical Details:
   - CSS (Cascading Style Sheets)     
   - JS (JavaScript)    
   - HTML (HyperText Markup Language)    
-- Flutter Application for App Stores    
+- Flutter Application for App Stores: [App Repository](https://github.com/noahwons/Calcly)    
   - Flutter    
   - Dart    
   - Python    
