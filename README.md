@@ -5,7 +5,7 @@ A responsive mobile web application that can simplify your Calculus journey and 
 Introduction: 
 ------------------------------------------
 
-<ins>Overview:<ins> 
+<ins>Overview:</ins> 
 Calcly is an application that pushes the forefront of learning Calculus to its best. An AI has been trained on previous Calculus Exams to deliver the best responses that students may need. With voice recognition and file upload available, this AI can help students understand the problem and apply their newfound knowledge to future problems.
 
 Key Features: 
