@@ -32,9 +32,10 @@ Technical Details:
 - Canva - Graphic Design Platform   
 - Materialize - CSS Framework    
 - Botpress - Our AI Training API    
-- Steve Butler - AI Training and YouTube Videos for Students to Learn from.    
+- Steve Butler - AI Training and YouTube Videos for Students to Learn from.
+- VSC (Visual Studio Code)   
 
-<ins>Languages Used:</ins>   
+<ins>Languages:</ins>   
 - Responsive Mobile Web Application    
   - CSS (Cascading Style Sheets)     
   - JS (JavaScript)    
