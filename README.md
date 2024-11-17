@@ -9,9 +9,9 @@ Introduction:
 Calcly is an application that pushes the forefront of learning Calculus to its best. An AI has been trained on previous Calculus Exams to deliver the best responses that students may need. With voice recognition and file upload available, this AI can help students understand the problem and apply their newfound knowledge to future problems.
 
 <ins>Key Features: </ins>   
-Built-in AI Chatbot trained in Calculus
-Responsive Mobile Web App
-Simple and easy to use
+- Built-in AI Chatbot trained in Calculus   
+- Responsive Mobile Web App   
+- Simple and easy to use   
 
 <ins>Target Audience:</ins>   
 Anyone interested in Calculus help.
@@ -29,24 +29,24 @@ First, you will be met with our landing page by opening up the responsive mobile
 Technical Details:
 ------------------------------------------
 <ins>Resources:</ins>   
-Canva - Graphic Design Platform   
-Materialize - CSS Framework    
-Botpress - Our AI Training API    
-Steve Butler - AI Training and YouTube Videos for Students to Learn from.    
+- Canva - Graphic Design Platform   
+- Materialize - CSS Framework    
+- Botpress - Our AI Training API    
+- Steve Butler - AI Training and YouTube Videos for Students to Learn from.    
 
 <ins>Languages Used:</ins>   
-Responsive Mobile Web Application    
-  CSS (Cascading Style Sheets)     
-  JS (JavaScript)    
-  HTML (HyperText Markup Language)    
-Flutter Application for App Stores    
-  Flutter    
-  Dart    
-  Python    
+- Responsive Mobile Web Application    
+--- CSS (Cascading Style Sheets)     
+--- JS (JavaScript)    
+--- HTML (HyperText Markup Language)    
+- Flutter Application for App Stores    
+--- Flutter    
+--- Dart    
+--- Python    
 
 <ins>Developers:</ins>   
-Brian Craciun    
-Michael Proeschel    
-Noah Wons    
+- Brian Craciun    
+- Michael Proeschel    
+- Noah Wons    
 
 
