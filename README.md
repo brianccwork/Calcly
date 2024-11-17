@@ -1,11 +1,11 @@
-#Documentation:
+Documentation:
 ------------------------------------------
 A responsive mobile web application that can simplify your Calculus journey and make it from point A(Begginer) to point B(Expert) in O(1) time!
 
-#Introduction: 
+Introduction: 
 ------------------------------------------
 
-Overview: 
+<ins>Overview:<ins> 
 Calcly is an application that pushes the forefront of learning Calculus to its best. An AI has been trained on previous Calculus Exams to deliver the best responses that students may need. With voice recognition and file upload available, this AI can help students understand the problem and apply their newfound knowledge to future problems.
 
 Key Features: 
@@ -16,7 +16,7 @@ Simple and easy to use
 Target Audience:
 Anyone interested in Calculus help.
 
-#Getting Started:
+Getting Started:
 ------------------------------------------
 Installation Instructions:
 Find our Responsive Mobile Web Application on a phone or computer setup following this link: Calcly. Then, download it directly to your mobile device or computer. Feel free to use the website as is, and once our application is in the app store, we will update this description.
@@ -26,7 +26,7 @@ First, you will be met with our landing page by opening up the responsive mobile
 
 
 
-#Technical Details:
+Technical Details:
 ------------------------------------------
 Resources:
 Canva - Graphic Design Platform
